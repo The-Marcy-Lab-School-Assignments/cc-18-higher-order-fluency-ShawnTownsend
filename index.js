@@ -57,6 +57,6 @@ function uppercase(array) {
 
 // 12.
 function concatStrings(words) {
-    return words.join(' ');
+  return words.join(' ');
 }
 
